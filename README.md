@@ -1,1 +1,17 @@
-Fully detailed information on https://en.wikipedia.org/wiki/Rock_paper_scissors, https://hobbylark.com/party-games/Rock-Paper-Scissors, or https://www.slideshare.net/slideshow/rock-paper-scissors-3810847/3810847
+# RPS vs AI
+
+A simple Rock Paper Scissors game built with Python. This project allows you to play against a computer opponent using basic logic.
+
+## Features
+* 100% Python code.
+* Quick and easy to run in a terminal.
+* Play against a computer opponent.
+
+## How to Run
+1. Make sure you have Python installed.
+2. Download the script file.
+3. Open your terminal or command prompt.
+4. Run the command: python main.py
+
+## Why I Built This
+I created this as a free and open-source alternative for anyone who wants to see how a basic game loop works in Python.
