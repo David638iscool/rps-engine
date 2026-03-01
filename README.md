@@ -1,17 +1,11 @@
-# RPS vs AI
+### How to Run
 
-A simple Rock Paper Scissors game built with Python. This project allows you to play against a computer opponent using basic logic.
+1. Make sure you have **Python** installed on your computer.
+2. Download the **code.py** file.
+3. Open your terminal (Command Prompt on Windows or Terminal on Mac).
+4. Type `cd` followed by a space, then drag the folder where you saved the file into the terminal window. It should look like this:
+* `cd C:\Users\YourName\Downloads`
 
-## Features
-* 100% Python code.
-* Quick and easy to run in a terminal.
-* Play against a computer opponent.
 
-## How to Run
-1. Make sure you have Python installed.
-2. Download the script file.
-3. Open your terminal or command prompt.
-4. Run the command: python code.py
-
-## Why I Built This
-I created this as a free and open-source alternative for anyone who wants to see how a basic game loop works in Python.
+5. Press **Enter**.
+6. Run the script by typing: `python code.py`
