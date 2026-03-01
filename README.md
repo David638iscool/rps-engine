@@ -11,7 +11,7 @@ A simple Rock Paper Scissors game built with Python. This project allows you to 
 1. Make sure you have Python installed.
 2. Download the script file.
 3. Open your terminal or command prompt.
-4. Run the command: python main.py
+4. Run the command: python code.py
 
 ## Why I Built This
 I created this as a free and open-source alternative for anyone who wants to see how a basic game loop works in Python.
